@@ -18,4 +18,5 @@ class Query(graphene.ObjectType):
         return Book.objects.all()
 
     def resolve_book(self, info, book_id):
-        return Book.objects.get(pk=book_id)
+        return Book.objects.get(pk=book_id) 
+    
