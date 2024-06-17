@@ -1,0 +1,52 @@
+[
+    {
+        "model": "api.book",
+        "pk": 1,
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year_published": "1960",
+            "review": 5
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 2,
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "year_published": "1949",
+            "review": 5
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 3,
+        "fields": {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "year_published": "1813",
+            "review": 5
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 4,
+        "fields": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year_published": "1925",
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 5,
+        "fields": {
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "year_published": "1851",
+            "review": 4
+        }
+    }
+]
